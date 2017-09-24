@@ -1,0 +1,15 @@
+{
+    "name": "jennywang/php_unit_study",
+    "authors": [
+        {
+            "name": "zeon",
+            "email": "scplay@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zeon\\": "src/"
+        }
+    }
+}
